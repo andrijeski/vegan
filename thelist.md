@@ -1,8 +1,8 @@
-General guide:
+**General guide**:
 
 http://vegankit.com/
 
-Vegan Nutrition:
+**Vegan Nutrition**:
 
 http://veganhealth.org/
 
@@ -16,21 +16,21 @@ http://jacknorrisrd.com/
 
 http://nutritionfacts.org/
 
-Vegan food pyramid:
+**Vegan food pyramid**:
 
 http://www.theveganrd.com/wp-content/uploads/2010/07/Messina-Plant-Plate.jpg
 
-Some vegan staples:
+**Some vegan staples:**
 
 http://www.veggieful.com/2012/08/vegan-pantry-staples.html
 
-Sample meal plans:
+**Sample meal plans:**
 
 http://7dayvegan.com/choose/
 
 http://www.chooseveg.com/mealplan
 
-Replacement ideas:
+**Replacement ideas:**
 
 For meat: Gardein, Beyond Meat, Boca brands. You could also cook using tofu, seitan, or tempeh.
 
@@ -56,11 +56,11 @@ For mayonnaise: Just Mayo, Vegenaise, Earth Balance
 
 For eggs (eating): Tofu, The Vegg
 
-Ingredient substitution chart:
+**Ingredient substitution chart:**
 
 http://www.pcrm.org/pdfs/health/PCRM_Substitution_Chart.pdf
 
-General Recipes:
+**General Recipes:**
 
 http://vegankit.com/eat#planyourmeal
 
@@ -109,23 +109,19 @@ http://www.thekitchn.com/15-satisfying-vegan-lunch-recipes-to-energize-your-day-
 
 http://www.popsugar.com/fitness/Vegan-Lunches-You-Can-Take-Work-14859587?stream_view=1#photo-33895972
 
-Calorie trackers:
+**Calorie trackers:**
 
 https://cronometer.com/ (tracks nutrient intake as well)
 
 https://myfitnesspal.com/
 
-How to tell your family and friends that you're vegan:
+**How to tell your family and friends that you're vegan:**
 
 http://www.vrg.org/teen/telling_your_parents.php
 
 http://www.mindbodygreen.com/0-5309/How-to-Tell-Family-Friends-Youre-Going-Vegan.html
 
-Being vegan in social situations:
-
-https://www.youtube.com/watch?v=Teq8YCFz4Vw
-
-Vegan on a Budget:
+**Vegan on a Budget:**
 
 http://plantbasedonabudget.com/
 
@@ -155,11 +151,11 @@ Vegan on the Cheap by Robin Robertson
 
 Eat Vegan on $4.00 a Day by Ellen Jaffe Jones
 
-Animal ingredients list:
+**Animal ingredients list:**
 
 http://www.peta.org/living/beauty/animal-ingredients-list/
 
-Vegan fitness:
+**Vegan fitness:**
 
 http://veganhealth.org/articles/athletes
 
@@ -181,21 +177,21 @@ http://www.plantbuilt.com/
 
 /r/veganfitness
 
-Surprising vegan foods:
+**Surprising vegan foods:**
 
 http://www.peta.org/living/food/accidentally-vegan/
 
-Global restaurant guide:
+**Global restaurant guide:**
 
 http://www.happycow.net/
 
-Eating vegan at fast food restaurants:
+**Eating vegan at fast food restaurants:**
 
 http://www.peta.org/living/food/chain-restaurants/
 
 And of course you should be able to get tofu/bean curd at Chinese restaurants. And bean burritos at Mexican places. And a pizza shop could definitely make you a marinara pie/slice if you asked. Italian restaurants always have pasta with marinara or garlic and oil. And Middle Eastern places should have falafel. You could also always carry some trail mix or maybe a Clif Bar with you so if you end up in a situation where there's absolutely nothing vegan you won't starve.
 
-Vegan cooking shows:
+**Vegan cooking shows:**
 
 http://www.onegreenplanet.org/vegan-food/the-10-best-vegan-cooking-channels-on-youtube/
 
@@ -203,7 +199,7 @@ http://cok.net/blog/2013/08/youtube-vegan-cooking/
 
 http://www.peta.org/living/food/top-five-vegetarian-cooking-shows/
 
-Dealing with picky eaters:
+**Dealing with picky eaters:**
 
 http://www.vegkitchen.com/kid-friendly-recipes/picky-eater/
 
@@ -211,21 +207,21 @@ https://www.happycow.net/blog/feeding-the-mini-vegans-in-your-life/
 
 http://www.vega-licious.com/my-child-is-a-picky-eater-help/
 
-Online vegan store:
+**Online vegan store:**
 
 http://veganessentials.com/
 
-Cruelty-Free shopping (makeup, soaps, etc.):
+**Cruelty-Free shopping (makeup, soaps, etc.):**
 
 http://leapingbunny.org/indexcus.php
 
-Vegan clothing
+**Vegan clothing:**
 
 http://www.farmsanctuary.org/vegan-fashion/#
 
 http://www.peta.org/living/fashion/cruelty-free-clothing-guide/
 
-Animal advocacy tips and resources:
+**Animal advocacy tips and resources:**
 
 http://www.veganoutreach.org/advocacy/
 
@@ -239,17 +235,17 @@ http://www.abolitionistapproach.com/faqs/
 
 http://bitesizevegan.com/
 
-Find local vegan groups at http://www.meetup.com/
+**Find local vegan groups at http://www.meetup.com/**
 
-Overview of factory farming:
+**Overview of factory farming:**
 
 http://woodstocksanctuary.org/learn-3/factory-farmed-animals/
 
-Directory of farm animal sanctuaries:
+**Directory of farm animal sanctuaries:**
 
 http://www.vegan.com/farm-sanctuaries/
 
-Some more vegan books:
+**Some more vegan books:**
 
 Vegan for Life by Jack Norris and Virginia Messina
 
