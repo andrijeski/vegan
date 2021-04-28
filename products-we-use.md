@@ -27,13 +27,38 @@ Optional:
 
 * Nutritional Yeast (aka nooch) - 2 tsp / day - https://www.amazon.de/gp/product/B08BBN1TTL/
 
+* Soyananda cream cheese - https://soyana.ch/soyana-lebensmittel/vegane-bioalternativen-zu-joghurt-kase/soyananda-vegane-bioalternativen-zu-frischkase-sauerrahm/
 * Oatly cream cheese - https://www.oatly.com/int/products/oat-spread-pla
+  
+* Violife 
+  - _Yellow_ slices - https://violifefoods.com/product/original-flavour-slices/
+  - Greek white - https://violifefoods.com/product/violife-greek-white-block/
+  - _Parmesan like_ - https://violifefoods.com/product/prosociano-wedge/
 
 ### Yoghurt replacements
 
 * Alpro yogurt no sugar - https://www.alpro.com/uk/products/plant-based-alternative-to-yogurt/pbay-plain-500g/plain-no-sugars/
+* Oatly yogurt greek style - https://www.oatly.com/int/products/oatgurt-greek-style-2
+* Oatly yogurt plain - https://www.oatly.com/int/products/oatgurt-plain-2
+
+* Oatly creme fraiche - https://www.oatly.com/int/products/creamy-oat-fraiche
+
+### Milk replacements
+
+* Oatly Barista (best for coffee) - https://www.oatly.com/int/products/oat-drink-barista-edition
+* Oatly Organic (great for kids) -  https://www.oatly.com/int/products/oat-drink-organic (contains just oats, water and salt)
 
 ### Meat replacements
 
+* Tempeh
+* Tofu
+* Seitan
+  
+Vivera
+- Plant mince - https://vivera.com/products/vivera-plant-mince/
+- Plant chicken pieces - https://vivera.com/products/vivera-plant-chicken-pieces/
 
 ### Other
+
+* Cooking cream - Oatly - https://www.oatly.com/int/products/organic-imat-0-25
+* 
