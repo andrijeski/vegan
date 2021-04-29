@@ -54,10 +54,16 @@ Optional:
 * Tofu
 * Seitan
   
-Vivera
+Vivera (brand)
 - Plant mince - https://vivera.com/products/vivera-plant-mince/
 - Plant chicken pieces - https://vivera.com/products/vivera-plant-chicken-pieces/
+
+### Spices 
+
+* Deliciou - https://eu.deliciou.com/collections/all-products
 
 ### Other
 
 * Cooking cream - Oatly - https://www.oatly.com/int/products/organic-imat-0-25
+
+
