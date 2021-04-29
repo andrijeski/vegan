@@ -51,12 +51,23 @@ Optional:
 ### Meat replacements
 
 * Tempeh
+  - Fresh tempeh example: https://www.ah.nl/producten/product/wi232355/ah-tempeh
 * Tofu
+  - Fresh tofu example: https://www.ah.nl/producten/product/wi54905/ah-biologisch-tofu-naturel
 * Seitan
+  - Home made is the best. You can tweak the flavour to your liking. 
+    - There are many ways to make it, even my favorite one is made in a bread making machine: https://vegannosh.me/2009/03/15/lazy-daves-5-bread-machine-turkey-flavored-seitan/
+    - Or just https://www.google.com/search?q=how+to+make+seitan+at+home
   
 Vivera (brand)
 - Plant mince - https://vivera.com/products/vivera-plant-mince/
 - Plant chicken pieces - https://vivera.com/products/vivera-plant-chicken-pieces/
+
+Aldi (supermarket chain)
+- Vegan meat balls - https://www.aldi.nl/producten/vlees-vis-vega/vega/vegan-balletjes-3462-1-0.article.html
+
+Lidl (supermarket chain)
+- Vegan juicy steak - https://www.lidl.nl/nl/p/product-recommendation/vegan-juicy-steaks/p35200
 
 ### Spices 
 
