@@ -1,4 +1,4 @@
-# List of vegan products we use
+# List of vegan products and supplements we use
 
 ### Supplements
 
